@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio3_Estrutura_While\bin\Debug\Exercicio3_Estrutura_While.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio3_Estrutura_While\bin\Debug\Exercicio3_Estrutura_While.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio3_Estrutura_While\bin\Debug\Exercicio3_Estrutura_While.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio3_Estrutura_While\obj\Debug\Exercicio3_Estrutura_While.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio3_Estrutura_While\obj\Debug\Exercicio3_Estrutura_While.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio3_Estrutura_While\obj\Debug\Exercicio3_Estrutura_While.pdb

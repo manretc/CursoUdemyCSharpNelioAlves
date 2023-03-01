@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioFixacaoVetores\bin\Debug\ExercicioFixacaoVetores.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioFixacaoVetores\bin\Debug\ExercicioFixacaoVetores.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioFixacaoVetores\bin\Debug\ExercicioFixacaoVetores.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioFixacaoVetores\obj\Debug\ExercicioFixacaoVetores.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioFixacaoVetores\obj\Debug\ExercicioFixacaoVetores.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioFixacaoVetores\obj\Debug\ExercicioFixacaoVetores.pdb

@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExPropostoClasseAbstrata\bin\Debug\ExPropostoClasseAbstrata.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExPropostoClasseAbstrata\bin\Debug\ExPropostoClasseAbstrata.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExPropostoClasseAbstrata\bin\Debug\ExPropostoClasseAbstrata.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExPropostoClasseAbstrata\obj\Debug\ExPropostoClasseAbstrata.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExPropostoClasseAbstrata\obj\Debug\ExPropostoClasseAbstrata.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExPropostoClasseAbstrata\obj\Debug\ExPropostoClasseAbstrata.pdb

@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\bin\Debug\net7.0\ExperienciaComparison.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\bin\Debug\net7.0\ExperienciaComparison.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\bin\Debug\net7.0\ExperienciaComparison.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\bin\Debug\net7.0\ExperienciaComparison.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\bin\Debug\net7.0\ExperienciaComparison.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\refint\ExperienciaComparison.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ExperienciaComparison.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExperienciaComparison\obj\Debug\net7.0\ref\ExperienciaComparison.dll

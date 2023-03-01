@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\Course\bin\Debug\Course.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\Course\bin\Debug\Course.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\Course\bin\Debug\Course.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\Course\obj\Debug\Course.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\Course\obj\Debug\Course.pdb

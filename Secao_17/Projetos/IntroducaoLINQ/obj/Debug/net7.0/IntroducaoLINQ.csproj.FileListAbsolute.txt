@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\bin\Debug\net7.0\IntroducaoLINQ.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\bin\Debug\net7.0\IntroducaoLINQ.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\bin\Debug\net7.0\IntroducaoLINQ.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\bin\Debug\net7.0\IntroducaoLINQ.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\bin\Debug\net7.0\IntroducaoLINQ.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\refint\IntroducaoLINQ.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\IntroducaoLINQ.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\IntroducaoLINQ\obj\Debug\net7.0\ref\IntroducaoLINQ.dll

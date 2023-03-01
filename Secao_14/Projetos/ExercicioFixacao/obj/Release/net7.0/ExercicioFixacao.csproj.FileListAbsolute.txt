@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\bin\Release\net7.0\ExercicioFixacao.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\bin\Release\net7.0\ExercicioFixacao.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\bin\Release\net7.0\ExercicioFixacao.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\bin\Release\net7.0\ExercicioFixacao.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\bin\Release\net7.0\ExercicioFixacao.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\refint\ExercicioFixacao.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ExercicioFixacao.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\ExercicioFixacao\obj\Release\net7.0\ref\ExercicioFixacao.dll

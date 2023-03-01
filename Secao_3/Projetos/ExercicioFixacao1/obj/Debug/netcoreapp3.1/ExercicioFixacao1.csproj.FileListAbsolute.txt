@@ -1,0 +1,12 @@
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.AssemblyInfoInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.AssemblyInfo.cs
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.csproj.CoreCompileInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.exe
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.deps.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.runtimeconfig.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.runtimeconfig.dev.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.genruntimeconfig.cache

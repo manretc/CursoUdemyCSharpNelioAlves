@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExFixacao\bin\Debug\ExFixacao.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExFixacao\bin\Debug\ExFixacao.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExFixacao\bin\Debug\ExFixacao.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExFixacao\obj\Debug\ExFixacao.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExFixacao\obj\Debug\ExFixacao.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_10\Projetos\ExFixacao\obj\Debug\ExFixacao.pdb

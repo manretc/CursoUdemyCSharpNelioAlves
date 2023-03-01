@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\refint\InterfaceIComparable.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\obj\Debug\net7.0\ref\InterfaceIComparable.dll

@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\refint\GetHashCode_Equals.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\GetHashCode_Equals\obj\Debug\net7.0\ref\GetHashCode_Equals.dll

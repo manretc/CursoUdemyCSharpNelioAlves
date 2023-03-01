@@ -1,0 +1,13 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\bin\Debug\netcoreapp2.0\Course.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\bin\Debug\netcoreapp2.0\Course.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\bin\Debug\netcoreapp2.0\Course.runtimeconfig.dev.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\bin\Debug\netcoreapp2.0\Course.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\bin\Debug\netcoreapp2.0\Course.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\Course\Course\obj\Debug\netcoreapp2.0\Course.genruntimeconfig.cache

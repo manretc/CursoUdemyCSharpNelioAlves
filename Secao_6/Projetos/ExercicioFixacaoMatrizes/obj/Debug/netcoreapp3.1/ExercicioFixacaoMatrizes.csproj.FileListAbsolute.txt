@@ -1,0 +1,12 @@
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.exe
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.deps.json
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.runtimeconfig.json
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.runtimeconfig.dev.json
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.dll
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.AssemblyInfoInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.AssemblyInfo.cs
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.csproj.CoreCompileInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.dll
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_6\Projetos\ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatrizes.genruntimeconfig.cache

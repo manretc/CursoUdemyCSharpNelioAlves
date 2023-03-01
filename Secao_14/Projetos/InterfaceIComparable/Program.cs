@@ -1,0 +1,26 @@
+﻿using InterfaceIComparable.Entities;
+
+namespace InterfaceIComparable {
+    class Program {
+        static void Main(string[] args) {
+
+            string path = @"C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_14\Projetos\InterfaceIComparable\Files\in.txt";
+            try {
+                using (StreamReader sr = File.OpenText(path)) {
+                    List<Employee> list = new List<Employee>();
+                    while (!sr.EndOfStream) {
+                        list.Add(new Employee(sr.ReadLine()));
+                    }
+                    list.Sort();
+                    foreach (Employee emp in list) {
+                        Console.WriteLine(emp);
+                    }
+                }
+            }
+            catch (IOException e) {
+                Console.WriteLine("An error occurred");
+                Console.WriteLine(e.Message);
+            }
+        }
+    }
+}

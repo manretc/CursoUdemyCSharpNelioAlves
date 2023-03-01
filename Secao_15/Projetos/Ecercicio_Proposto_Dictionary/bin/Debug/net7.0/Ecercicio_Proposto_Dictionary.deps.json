@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ecercicio_Proposto_Dictionary/1.0.0": {
+        "runtime": {
+          "Ecercicio_Proposto_Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecercicio_Proposto_Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

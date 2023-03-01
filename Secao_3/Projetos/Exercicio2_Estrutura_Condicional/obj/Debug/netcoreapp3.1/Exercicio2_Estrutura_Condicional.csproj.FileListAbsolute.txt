@@ -1,0 +1,13 @@
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\bin\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.exe
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\bin\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.deps.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\bin\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.runtimeconfig.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\bin\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.runtimeconfig.dev.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\bin\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\bin\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\obj\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.csprojAssemblyReference.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\obj\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.AssemblyInfoInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\obj\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.AssemblyInfo.cs
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\obj\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.csproj.CoreCompileInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\obj\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\obj\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio2_Estrutura_Condicional\obj\Debug\netcoreapp3.1\Exercicio2_Estrutura_Condicional.genruntimeconfig.cache

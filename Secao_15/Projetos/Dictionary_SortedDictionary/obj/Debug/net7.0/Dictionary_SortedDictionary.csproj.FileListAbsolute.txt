@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\refint\Dictionary_SortedDictionary.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Dictionary_SortedDictionary\obj\Debug\net7.0\ref\Dictionary_SortedDictionary.dll

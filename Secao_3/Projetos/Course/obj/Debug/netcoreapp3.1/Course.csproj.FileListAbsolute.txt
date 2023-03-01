@@ -1,0 +1,13 @@
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\bin\Debug\netcoreapp3.1\Course.exe
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\bin\Debug\netcoreapp3.1\Course.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\bin\Debug\netcoreapp3.1\Course.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\obj\Debug\netcoreapp3.1\Course.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\obj\Debug\netcoreapp3.1\Course.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

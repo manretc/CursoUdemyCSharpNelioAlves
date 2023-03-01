@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\bin\Debug\net7.0\Exercicio_Resolvido_Conjuntos.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\bin\Debug\net7.0\Exercicio_Resolvido_Conjuntos.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\bin\Debug\net7.0\Exercicio_Resolvido_Conjuntos.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\bin\Debug\net7.0\Exercicio_Resolvido_Conjuntos.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\bin\Debug\net7.0\Exercicio_Resolvido_Conjuntos.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\refint\Exercicio_Resolvido_Conjuntos.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\Exercicio_Resolvido_Conjuntos.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Resolvido_Conjuntos\obj\Debug\net7.0\ref\Exercicio_Resolvido_Conjuntos.dll

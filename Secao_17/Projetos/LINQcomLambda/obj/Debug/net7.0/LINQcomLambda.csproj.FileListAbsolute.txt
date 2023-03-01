@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\bin\Debug\net7.0\LINQcomLambda.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\bin\Debug\net7.0\LINQcomLambda.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\bin\Debug\net7.0\LINQcomLambda.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\bin\Debug\net7.0\LINQcomLambda.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\bin\Debug\net7.0\LINQcomLambda.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\refint\LINQcomLambda.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\LINQcomLambda.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQcomLambda\obj\Debug\net7.0\ref\LINQcomLambda.dll

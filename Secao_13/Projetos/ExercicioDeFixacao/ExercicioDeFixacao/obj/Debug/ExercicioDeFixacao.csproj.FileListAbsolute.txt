@@ -1,0 +1,15 @@
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.exe.config
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.exe
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.pdb
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.csprojAssemblyReference.cache
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.exe
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.exe.config
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.csproj.SuggestedBindingRedirects.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.pdb

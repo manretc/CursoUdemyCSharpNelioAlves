@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Exercicios_Fixacao\bin\Debug\Exercicios_Fixacao.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Exercicios_Fixacao\bin\Debug\Exercicios_Fixacao.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Exercicios_Fixacao\bin\Debug\Exercicios_Fixacao.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Exercicios_Fixacao\obj\Debug\Exercicios_Fixacao.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Exercicios_Fixacao\obj\Debug\Exercicios_Fixacao.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Exercicios_Fixacao\obj\Debug\Exercicios_Fixacao.pdb

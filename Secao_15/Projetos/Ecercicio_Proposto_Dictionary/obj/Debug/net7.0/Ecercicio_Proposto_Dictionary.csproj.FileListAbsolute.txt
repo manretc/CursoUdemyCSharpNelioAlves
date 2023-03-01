@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\bin\Debug\net7.0\Ecercicio_Proposto_Dictionary.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\bin\Debug\net7.0\Ecercicio_Proposto_Dictionary.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\bin\Debug\net7.0\Ecercicio_Proposto_Dictionary.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\bin\Debug\net7.0\Ecercicio_Proposto_Dictionary.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\bin\Debug\net7.0\Ecercicio_Proposto_Dictionary.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\refint\Ecercicio_Proposto_Dictionary.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\Ecercicio_Proposto_Dictionary.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Ecercicio_Proposto_Dictionary\obj\Debug\net7.0\ref\Ecercicio_Proposto_Dictionary.dll

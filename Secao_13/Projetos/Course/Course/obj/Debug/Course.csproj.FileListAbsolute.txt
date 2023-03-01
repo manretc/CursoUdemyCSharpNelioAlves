@@ -1,0 +1,15 @@
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\Course\Course\bin\Debug\Course.exe.config
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\Course\Course\bin\Debug\Course.exe
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\Course\Course\bin\Debug\Course.pdb
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\Course\Course\obj\Debug\Course.exe
+C:\Users\mtcabra\Documents\Udemy\Secao_13\Projetos\Course\Course\obj\Debug\Course.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\obj\Debug\Course.csproj.SuggestedBindingRedirects.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\obj\Debug\Course.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\obj\Debug\Course.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\bin\Debug\Course.exe.config
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\bin\Debug\Course.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_13\Projetos\Course\Course\bin\Debug\Course.pdb

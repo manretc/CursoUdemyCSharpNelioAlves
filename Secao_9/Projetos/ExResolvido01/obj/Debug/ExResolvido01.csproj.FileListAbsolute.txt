@@ -1,0 +1,8 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_9\Projetos\ExResolvido01\bin\Debug\ExResolvido01.exe.config
+D:\Google Drive\Udemy\C# Completo\Secao_9\Projetos\ExResolvido01\bin\Debug\ExResolvido01.exe.config
+D:\Google Drive\Udemy\C# Completo\Secao_9\Projetos\ExResolvido01\bin\Debug\ExResolvido01.exe
+D:\Google Drive\Udemy\C# Completo\Secao_9\Projetos\ExResolvido01\bin\Debug\ExResolvido01.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_9\Projetos\ExResolvido01\obj\Debug\ExResolvido01.csprojAssemblyReference.cache
+D:\Google Drive\Udemy\C# Completo\Secao_9\Projetos\ExResolvido01\obj\Debug\ExResolvido01.csproj.CoreCompileInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_9\Projetos\ExResolvido01\obj\Debug\ExResolvido01.exe
+D:\Google Drive\Udemy\C# Completo\Secao_9\Projetos\ExResolvido01\obj\Debug\ExResolvido01.pdb

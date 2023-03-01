@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Primeiros_Exercicios\bin\Debug\Primeiros_Exercicios.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Primeiros_Exercicios\bin\Debug\Primeiros_Exercicios.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Primeiros_Exercicios\bin\Debug\Primeiros_Exercicios.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Primeiros_Exercicios\obj\Debug\Primeiros_Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Primeiros_Exercicios\obj\Debug\Primeiros_Exercicios.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_4\Projetos\Primeiros_Exercicios\obj\Debug\Primeiros_Exercicios.pdb

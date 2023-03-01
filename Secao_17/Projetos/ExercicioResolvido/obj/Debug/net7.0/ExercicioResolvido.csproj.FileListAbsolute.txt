@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\refint\ExercicioResolvido.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\ExercicioResolvido\obj\Debug\net7.0\ref\ExercicioResolvido.dll

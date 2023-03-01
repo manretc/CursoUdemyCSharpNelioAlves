@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\bin\Debug\net7.0\LINQNotacaoSimilarSQL.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\bin\Debug\net7.0\LINQNotacaoSimilarSQL.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\bin\Debug\net7.0\LINQNotacaoSimilarSQL.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\bin\Debug\net7.0\LINQNotacaoSimilarSQL.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\bin\Debug\net7.0\LINQNotacaoSimilarSQL.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\refint\LINQNotacaoSimilarSQL.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\LINQNotacaoSimilarSQL.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_17\Projetos\LINQNotacaoSimilarSQL\obj\Debug\net7.0\ref\LINQNotacaoSimilarSQL.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exercicio_Resolvido_Conjuntos/1.0.0": {
+        "runtime": {
+          "Exercicio_Resolvido_Conjuntos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Resolvido_Conjuntos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

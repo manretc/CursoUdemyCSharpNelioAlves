@@ -1,0 +1,13 @@
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\bin\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.exe
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\bin\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.deps.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\bin\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.runtimeconfig.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\bin\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.runtimeconfig.dev.json
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\bin\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\bin\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\obj\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.csprojAssemblyReference.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\obj\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.AssemblyInfoInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\obj\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.AssemblyInfo.cs
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\obj\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.csproj.CoreCompileInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\obj\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.dll
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\obj\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_3\Projetos\Exercicio1_Estrutura_Sequencial\obj\Debug\netcoreapp3.1\Exercicio1_Estrutura_Sequencial.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+D:\Google Drive\Udemy\C# Completo\Secao_2\10\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio4_Estrutura_For\bin\Debug\Exercicio4_Estrutura_For.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio4_Estrutura_For\bin\Debug\Exercicio4_Estrutura_For.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio4_Estrutura_For\bin\Debug\Exercicio4_Estrutura_For.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio4_Estrutura_For\obj\Debug\Exercicio4_Estrutura_For.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio4_Estrutura_For\obj\Debug\Exercicio4_Estrutura_For.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_3\Projetos\Exercicio4_Estrutura_For\obj\Debug\Exercicio4_Estrutura_For.pdb

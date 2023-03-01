@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_5\Projetos\Exercicio_Ficaxao\bin\Debug\Exercicio_Ficaxao.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_5\Projetos\Exercicio_Ficaxao\bin\Debug\Exercicio_Ficaxao.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_5\Projetos\Exercicio_Ficaxao\bin\Debug\Exercicio_Ficaxao.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_5\Projetos\Exercicio_Ficaxao\obj\Debug\Exercicio_Ficaxao.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_5\Projetos\Exercicio_Ficaxao\obj\Debug\Exercicio_Ficaxao.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_5\Projetos\Exercicio_Ficaxao\obj\Debug\Exercicio_Ficaxao.pdb

@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioDeFixacaoListas\bin\Debug\ExercicioDeFixacaoListas.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioDeFixacaoListas\bin\Debug\ExercicioDeFixacaoListas.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioDeFixacaoListas\bin\Debug\ExercicioDeFixacaoListas.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioDeFixacaoListas\obj\Debug\ExercicioDeFixacaoListas.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioDeFixacaoListas\obj\Debug\ExercicioDeFixacaoListas.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_6\Projetos\ExercicioDeFixacaoListas\obj\Debug\ExercicioDeFixacaoListas.pdb

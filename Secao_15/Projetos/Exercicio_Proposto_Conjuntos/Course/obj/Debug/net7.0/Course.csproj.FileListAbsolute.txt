@@ -1,0 +1,15 @@
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\bin\Debug\net7.0\Course.exe
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\bin\Debug\net7.0\Course.deps.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\bin\Debug\net7.0\Course.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\bin\Debug\net7.0\Course.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.csproj.AssemblyReference.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\refint\Course.dll
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.pdb
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\D2Ponto\GoogleDrive\Udemy\C# Completo\Secao_15\Projetos\Exercicio_Proposto_Conjuntos\Course\obj\Debug\net7.0\ref\Course.dll

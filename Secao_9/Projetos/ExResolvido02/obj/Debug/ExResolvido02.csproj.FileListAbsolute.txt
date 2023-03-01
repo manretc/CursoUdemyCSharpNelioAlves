@@ -1,0 +1,6 @@
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_9\Projetos\ExResolvido02\bin\Debug\ExResolvido02.exe.config
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_9\Projetos\ExResolvido02\bin\Debug\ExResolvido02.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_9\Projetos\ExResolvido02\bin\Debug\ExResolvido02.pdb
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_9\Projetos\ExResolvido02\obj\Debug\ExResolvido02.csprojResolveAssemblyReference.cache
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_9\Projetos\ExResolvido02\obj\Debug\ExResolvido02.exe
+C:\Users\mtcabra\Documents\MTC\Udemy\Secao_9\Projetos\ExResolvido02\obj\Debug\ExResolvido02.pdb
