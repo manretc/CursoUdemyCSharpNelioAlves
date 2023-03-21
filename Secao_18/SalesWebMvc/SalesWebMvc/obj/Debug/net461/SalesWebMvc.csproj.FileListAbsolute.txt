@@ -358,3 +358,8 @@ C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\De
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Composition.TypedParts.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Data.SqlClient.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Interactive.Async.dll
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Create.g.cshtml.cs
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Details.g.cshtml.cs
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Index.g.cshtml.cs
