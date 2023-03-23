@@ -331,7 +331,6 @@ C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\De
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Xml.XPath.XDocument.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.Views.pdb
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.CopyComplete
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.AssemblyReference.cache
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
@@ -363,3 +362,7 @@ C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\De
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Details.g.cshtml.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Edit.g.cshtml.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Departments\Index.g.cshtml.cs
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\MySqlConnector.dll
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\Pomelo.EntityFrameworkCore.MySql.dll
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\Pomelo.JsonObject.dll
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.AssemblyReference.cache
