@@ -365,4 +365,3 @@ C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\De
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\MySqlConnector.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\Pomelo.EntityFrameworkCore.MySql.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\Pomelo.JsonObject.dll
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.AssemblyReference.cache
