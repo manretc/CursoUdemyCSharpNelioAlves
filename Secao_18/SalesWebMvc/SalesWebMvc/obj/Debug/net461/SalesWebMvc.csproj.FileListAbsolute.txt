@@ -1,9 +1,3 @@
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.exe.config
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.CoreCompileInputs.cache
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.RazorAssemblyInfo.cache
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.RazorAssemblyInfo.cs
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.AssemblyInfoInputs.cache
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.AssemblyInfo.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\SalesWebMvc.exe.config
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\SalesWebMvc.deps.json
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\SalesWebMvc.exe
@@ -341,6 +335,12 @@ C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\De
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Xml.XmlSerializer.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Xml.XPath.dll
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.exe.config
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.RazorAssemblyInfo.cache
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.RazorAssemblyInfo.cs
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.AssemblyInfoInputs.cache
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.AssemblyInfo.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.TagHelpers.input.cache
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.TagHelpers.output.cache
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.RazorCoreGenerate.cache
@@ -356,6 +356,7 @@ C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\De
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Sellers\Create.g.cshtml.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Sellers\Delete.g.cshtml.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Sellers\Edit.g.cshtml.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Sellers\Index.g.cshtml.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Shared\Error.g.cshtml.cs
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
@@ -369,5 +370,3 @@ C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\De
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.CopyComplete
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.exe
 C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.pdb
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.AssemblyReference.cache
-C:\D2Ponto\GoogleDrive\Udemy\C#_Completo\Secao_18\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Sellers\Edit.g.cshtml.cs
